@@ -25,7 +25,7 @@ toc: false
 
 <hr />
 
-In this project theme, we will combine the BTO’s [Breeding Bird Survey (BBS)](https://www.bto.org/our-science/projects/breeding-bird-survey) and [Atlas](link) data with sound files from [Xeno-Canto](www.xeno-canto.org) to reconstruct and map habitat-specific natural soundscapes across the UK.
+In this project theme, we will combine the BTO’s [Breeding Bird Survey (BBS)](https://www.bto.org/our-science/projects/breeding-bird-survey) and [Atlas](https://www.bto.org/our-science/projects/birdatlas) data with sound files from [Xeno-Canto](https://xeno-canto.org/) to reconstruct and to map habitat-specific natural soundscapes across the UK.
 
 We will relate the acoustic properties of these soundscapes to local habitat and landscape characteristics to determine key drivers of spatial and temporal dynamics in soundscape complexity.
 

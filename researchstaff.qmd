@@ -149,20 +149,4 @@ University of Glasgow</p>
 
 :::
 
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<img src="images/dunno.jpg" class="card-img-top">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title">PDRA</h4>
-<p class="card-subtitle">Postdoctoral Research Associate<br>
-University of Glasgow</p>
-<div class="text-center">
-<a href="https://twitter.com/MelissaMarselle"><i>{{< fa brands twitter >}}</i></a>
-<a href="https://www.surrey.ac.uk/people/melissa-marselle"><i>{{< fa landmark >}}</i></a>
-</div>
-</div>
-</div>
-
-:::
-
 :::
