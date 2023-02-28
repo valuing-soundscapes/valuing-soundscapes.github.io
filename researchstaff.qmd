@@ -1,0 +1,168 @@
+---
+title: "Research Staff"
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12}
+[Ecology theme:]{.lead}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/sjb.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Simon Butler</h4>
+<p class="card-subtitle">Associate Professor<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p>BIODIVERSITY CONSERVATION - ECOLOGICAL INDICATORS - ACOUSTIC ECOLOGY</p>
+</div>
+<div class="text-center">
+<a href="https://research-portal.uea.ac.uk/en/persons/simon-butler"><i>{{< fa landmark >}}</i></a>
+<a href="https://twitter.com/_SimonButler"><i>{{< fa brands twitter >}}</i></a>
+<a href="https://orcid.org/0000-0002-5111-5639"><i>{{< fa brands orcid >}}</i></a>
+<a href="mailto:simon.j.butler@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/cb.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Claire Buchan</h4>
+<p class="card-subtitle">Postdoctoral Research Associate<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p>DATA SCIENCE - ACOUSTIC ECOLOGY - MACROECOLOGY</p>
+</div>
+<div class="text-center">
+<a href="https://twitter.com/buchanding"><i>{{< fa brands twitter >}}</i></a>
+<a href="https://github.com/c-buchan"><i>{{< fa brands github >}}</i></a>
+<a href="mailto:c.buchan@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+[Psychology theme:]{.lead}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/Ellie_photo.jpg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Eleanor Ratcliffe</h4>
+<p class="card-subtitle">Lecturer in Environmental Psychology<br>
+University of Surrey</p>
+<div class="card-text text-center">
+<p>RESTORATIVE ENVIRONMENTS - NATURAL SOUNDSCAPES - WELLBEING</p>
+</div>
+<div class="text-center">
+<a href="https://www.surrey.ac.uk/people/eleanor-ratcliffe"><i>{{< fa landmark >}}</i></a>
+<a href="https://scholar.google.co.uk/citations?user=Nz2URgYAAAAJ&hl=en"><i>{{< fa graduation-cap >}}</i></a>
+<a href="mailto:eleanor.ratcliffe@surrey.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/melissa_marselle_sq.jpg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Melissa Marselle</h4>
+<p class="card-subtitle">Lecturer<br>
+Environmental Psychology Research Group<br>
+University of Surrey</p>
+<div class="card-text text-center">
+<p>BIODIVERSITY & MENTAL HEALTH - HEALTH BENEFITS OF NATURE CONTACT - MEDIATING PATHWAYS</p>
+</div>
+<div class="text-center">
+<a href="https://www.surrey.ac.uk/environmental-psychology-research-group"><i>{{< fa landmark >}}</i></a>
+<a href="https://www.surrey.ac.uk/people/melissa-marselle"><i>{{< fa landmark >}}</i></a>
+<a href="https://twitter.com/MelissaMarselle"><i>{{< fa brands twitter >}}</i></a>
+<a href="https://scholar.google.co.uk/citations?user=J4wGx1YAAAAJ&hl=en&inst=15262737669262836719"><i>{{< fa graduation-cap >}}</i></a>
+<a href="mailto:m.marselle@surrey.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/konrad_sq.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Konrad Uebel</h4>
+<p class="card-subtitle">Research Fellow<br>
+University of Surrey</p>
+<div class="card-text text-center">
+<p>BIODIVERSITY CONSERVATION - URBAN GREEN SPACES - NATURAL SOUNDSCAPES</p>
+</div>
+<div class="text-center">
+<a href="mailto:mk.uebel.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+[Economics theme:]{.lead}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+
+::: dark-mode
+<img src="images/nick_hanley_cool.jpg" class="card-img-top">
+
+:::
+::: light-mode
+<img src="images/nick_hanley_less_cool.jpg" class="card-img-top">
+
+:::
+
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Professor Nick Hanley</h4>
+<p class="card-subtitle">Professor of Environmental and One Health Economics<br>
+University of Glasgow</p>
+<div class="card-text text-center">
+<p>ECONOMIC INCENTIVES FOR BIODIVERSITY CONSERVATION - ECOLOGICAL-ECONOMIC MODELLING</p>
+</div>
+<div class="text-center">
+<a href="https://www.gla.ac.uk/researchinstitutes/bahcm/research/sigs/environmentalandonehealth/"><i>{{< fa landmark >}}</i></a>
+<a href="https://orcid.org/0000-0002-1362-3499"><i>{{< fa brands orcid >}}</i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=5W8W0rMAAAAJ"><i>{{< fa graduation-cap >}}</i></a>
+<a href="mailto:nicholas.hanley@glasgow.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<img src="images/dunno.jpg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">PDRA</h4>
+<p class="card-subtitle">Postdoctoral Research Associate<br>
+University of Glasgow</p>
+<div class="text-center">
+<a href="https://twitter.com/MelissaMarselle"><i>{{< fa brands twitter >}}</i></a>
+<a href="https://www.surrey.ac.uk/people/melissa-marselle"><i>{{< fa landmark >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+:::

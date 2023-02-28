@@ -1,0 +1,22 @@
+---
+title: "Sound and Soundscape in Restorative Natural Environments: A Narrative Literature Review"
+type: "article"
+year: "2021"
+publication: "Frontiers in Psychology"
+doi: "https://doi.org/10.3389/fpsyg.2021.570563"
+toc: false
+categories:
+  - soundscape
+  - nature sounds
+  - restorative environments
+  - psychology
+  - literature review
+---
+
+## Citation
+
+> Ratcliffe E. Sound and Soundscape in Restorative Natural Environments: A Narrative Literature Review. *Front. Psychol.* **12** 570563 (2021). doi: 10.3389/fpsyg.2021.570563
+
+## Abstract
+
+Acoustic experiences of nature represent a growing area in restorative environments research and are explored in this narrative literature review. First, the work surveyed indicates that nature is broadly characterized by the sounds of birdsong, wind, and water, and these sounds can enhance positive perceptions of natural environments presented through visual means. Second, isolated from other sensory modalities these sounds are often, although not always, positively affectively appraised and perceived as restorative. Third, after stress and/or fatigue nature sounds and soundscapes can lead to subjectively and objectively improved mood and cognitive performance, as well as reductions in arousal, although some inconsistencies in findings are observed. Fourth, theoretical frameworks of restorative environments would benefit from inclusion of acoustic environmental properties such as sound intensity or frequency. Fifth, findings regarding positive, learned semantic associations with nature have arisen as a result of recent work on sounds and restoration. This represents another important area of potential theoretical development for broader restorative environments research.

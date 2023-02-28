@@ -1,0 +1,22 @@
+---
+title: "Bird population declines and species turnover are changing the acoustic properties of spring soundscapes"
+type: "article"
+year: "2021"
+publication: "Nature Communications"
+doi: "https://doi.org/10.1038/s41467-021-26488-1"
+toc: false
+categories:
+  - biodiversity
+  - community ecology
+  - acoustic metrics
+  - conservation biology
+  - journal article
+---
+
+## Citation
+
+> Morrison, C.A., Auniņš, A., Benkő, Z. *et al.* Bird population declines and species turnover are changing the acoustic properties of spring soundscapes. *Nat Commun* **12**, 6217 (2021). doi: 10.1038/s41467-021-26488-1
+
+## Abstract
+
+Natural sounds, and bird song in particular, play a key role in building and maintaining our connection with nature, but widespread declines in bird populations mean that the acoustic properties of natural soundscapes may be changing. Using data-driven reconstructions of soundscapes in lieu of historical recordings, here we quantify changes in soundscape characteristics at more than 200,000 sites across North America and Europe. We integrate citizen science bird monitoring data with recordings of individual species to reveal a pervasive loss of acoustic diversity and intensity of soundscapes across both continents over the past 25 years, driven by changes in species richness and abundance. These results suggest that one of the fundamental pathways through which humans engage with nature is in chronic decline, with potentially widespread implications for human health and well-being.

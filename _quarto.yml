@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: images/favicon_brain_sq.png
+  title: "Valuing Nature's Soundscapes"
+  site-url: "https://c-buchan.github.io/soundscapes/"
+  repo-url: "https://github.com/c-buchan/soundscapes"
+  navbar:
+    logo: images/logo_brain_sq.png
+    pinned: true
+    search: false
+    right:
+      - href: about.qmd
+        text: About
+      - text: "Themes"
+        menu:
+          - href: uea.qmd
+            text: "Ecology"
+          - href: surrey.qmd
+            text: "Pyschology"
+          - href: gla.qmd
+            text: "Economics"
+      - text: "Research staff"
+        href: researchstaff.qmd
+      - text: "Project partners"
+        href: partners.qmd
+      - text: "Resources"
+        menu:
+          - pubs.qmd
+          - media.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - icon: github
+        href: https://github.com/c-buchan/soundscapes
+
+format:
+  html:
+    page-layout: full
+    theme: 
+      dark:
+      - cb_styles_dark.scss
+      light:
+      - cb_styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+
+

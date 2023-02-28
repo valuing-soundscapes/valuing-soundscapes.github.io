@@ -1,0 +1,33 @@
+---
+title: "Biodiversity and Health in the Urban Environment"
+type: "article"
+year: "2021"
+publication: "Current Environmental Health Reports"
+doi: "https://doi.org/10.1007/s40572-021-00313-9"
+toc: false
+categories:
+  - anxiety
+  - nature-based solutions
+  - biodiversity
+  - species richness
+  - public health
+  - disease
+---
+
+## Citation
+
+> Marselle, M., Lindley, S.J., Cook, P.A. & Bonn, A. Biodiversity and Health in the Urban Environment. *Curr. Envir. Health Rpt.* **8**, 146–156 (2021). doi: 10.1007/s40572-021-00313-9
+
+## Abstract
+
+*Purpose of review*
+
+Biodiversity underpins urban ecosystem functions that are essential for human health and well-being. Understanding how biodiversity relates to human health is a developing frontier for science, policy and practice. This article describes the beneficial, as well as harmful, aspects of biodiversity to human health in urban environments.
+
+*Recent findings*
+
+Recent research shows that contact with biodiversity of natural environments within towns and cities can be both positive and negative to human physical, mental and social health and well-being. For example, while viruses or pollen can be seriously harmful to human health, biodiverse ecosystems can promote positive health and well-being. On balance, these influences are positive. As biodiversity is declining at an unprecedented rate, research suggests that its loss could threaten the quality of life of all humans.
+
+*Summary*
+
+A key research gap is to understand—and evidence—the specific causal pathways through which biodiversity affects human health. A mechanistic understanding of pathways linking biodiversity to human health can facilitate the application of nature-based solutions in public health and influence policy. Research integration as well as cross-sector urban policy and planning development should harness opportunities to better identify linkages between biodiversity, climate and human health. Given its importance for human health, urban biodiversity conservation should be considered as public health investment.

@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "pubs.qmd": [
+      "publications/*.qmd"
+    ]
+  }
+}

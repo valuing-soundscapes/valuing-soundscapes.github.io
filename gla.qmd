@@ -1,0 +1,36 @@
+---
+toc: false
+---
+::: {.grid}
+
+::: {.g-col-8}
+
+# Valuing benefits
+
+::: 
+
+::: {.g-col-4}
+
+::: dark-mode
+![](images/UoG_keyline.png)
+:::
+::: light-mode
+![](images/UoG_colour.png)
+:::
+
+:::
+
+:::
+
+<hr />
+
+In this project theme, we have three objectives. 
+
+The first is to estimate the relationship between changes in bird song and people’s wellbeing, as indicated by their Willingness to Pay for such changes. We will use a stated preference choice experiment with a random sample of UK residents to estimate their preferences for alternative future bird populations and distributions, and the soundscapes that fit these. 
+
+In the second strand of work, we will use data from a second random sample survey of the UK general public on self-reported mental wellbeing (using the “WHO-5” scale), and relate this to the acoustic landscapes which people live in and visit most often. This survey will also collect data on recalled perceived benefits from recent visits to a range of habitats.  
+
+Finally, we will use data on anti-depressant prescribing at the [“datazone”](https://www.data.gov.uk/dataset/ab9f1f20-3b7f-4efa-9bd2-239acf63b540/data-zone-boundaries-2011) level in Scotland to test the associations between bird song and use of such drugs, based on previous work we did using similar data to look at the effects of variation in access to blue and green spaces on anti-depressant prescribing.
+
+<br /> 
+*The economics project theme is based at the University of Glasgow, led by Professor Nick Hanley.*

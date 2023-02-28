@@ -1,0 +1,71 @@
+{
+  "researchstaff.qmd": {
+    "researchstaff.html": "fd4e303c"
+  },
+  "partners.qmd": {
+    "partners.html": "62ef7cfd"
+  },
+  "contact.qmd": {
+    "contact.html": "138be666"
+  },
+  "publications/collasetal2022.qmd": {
+    "collasetal2022.html": "52d731c6"
+  },
+  "publications/marselleetal2021.qmd": {
+    "marselleetal2021.html": "f1049fb7"
+  },
+  "publications/simpsonetal2022.qmd": {
+    "simpsonetal2022.html": "1b9ba63b"
+  },
+  "publications/butleretal2007.qmd": {
+    "butleretal2007.html": "478df405"
+  },
+  "publications/ratcliffe2021.qmd": {
+    "ratcliffe2021.html": "aa0387b6"
+  },
+  "publications/mcdougalletal2021.qmd": {
+    "mcdougalletal2021.html": "d0c5a39f"
+  },
+  "publications/ratcliffeetal2018.qmd": {
+    "ratcliffeetal2018.html": "62049c44"
+  },
+  "publications/mcdougalletal2022.qmd": {
+    "mcdougalletal2022.html": "ebf28e17"
+  },
+  "publications/uebeletal2021.qmd": {
+    "uebeletal2021.html": "99d2e316"
+  },
+  "publications/ratcliffeetal2013.qmd": {
+    "ratcliffeetal2013.html": "63d7299d"
+  },
+  "publications/marselleetal2021b.qmd": {
+    "marselleetal2021b.html": "77be001d"
+  },
+  "publications/morrisonetal2021.qmd": {
+    "morrisonetal2021.html": "61b672dd"
+  },
+  "surrey.qmd": {
+    "surrey.html": "1d32a2ba"
+  },
+  "media.qmd": {
+    "media.html": "fc1b1398"
+  },
+  "about.qmd": {
+    "about.html": "c076cc84"
+  },
+  "pubs.qmd": {
+    "pubs.html": "a805e782"
+  },
+  "cb.qmd": {
+    "cb.html": "98af3e7e"
+  },
+  "gla.qmd": {
+    "gla.html": "d2efd485"
+  },
+  "uea.qmd": {
+    "uea.html": "66fba312"
+  },
+  "index.qmd": {
+    "index.html": "09bbb5ba"
+  }
+}

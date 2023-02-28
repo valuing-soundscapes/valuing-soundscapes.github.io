@@ -1,0 +1,22 @@
+---
+title: "Predicting the Perceived Restorative Potential of Bird Sounds Through Acoustics and Aesthetics"
+type: "article"
+year: "2018"
+publication: "Environment and Behaviour"
+doi: "https://doi.org/10.1177/0013916518806952"
+toc: false
+categories:
+  - soundscape
+  - acoustics
+  - aesthetics
+  - restorative environments
+  - birdsong
+---
+
+## Citation
+
+> Ratcliffe E., Gatersleben B. & Sowden P. T. Predicting the Perceived Restorative Potential of Bird Sounds Through Acoustics and Aesthetics. *Environ. Behav.* **52** 371-400 (2018). doi: 10.1177/0013916518806952
+
+## Abstract
+
+Some, but not all, bird sounds are associated with perceptions of restoration from stress and cognitive fatigue. The perceptual properties that might underpin these differences are understudied. In this online study, ratings of perceived restorative potential (PRP) and aesthetic properties of 50 bird sounds were provided by 174 residents of the United Kingdom. These were merged with data on objectively measured acoustic properties of the sounds. Regression analyses demonstrated that sound level, harmonics, and frequency, and perceptions of complexity, familiarity, and pattern, were significant predictors of PRP and cognitive and affective appraisals of bird sounds. These findings shed light on the structural and perceptual properties that may influence restorative potential of acoustic natural stimuli. Finally, through their potential associations with meaning, these findings highlight the importance of further study of semantic or meaning-based properties within the restorative environments literature.

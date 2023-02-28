@@ -1,0 +1,27 @@
+---
+title: "Urban green space soundscapes and their perceived restorativeness"
+type: "article"
+year: "2021"
+publication: "People and Nature"
+doi: "https://doi.org/10.1002/pan3.10215"
+toc: false
+categories:
+  - soundscape
+  - nature sounds
+  - perceived restorativeness
+  - traffic noise
+  - urban parks
+---
+
+## Citation
+
+> Uebel, K., Marselle, M., Dean, A.J., Rhodes, J., & Bonn, A. Urban green space soundscapes and their perceived restorativeness. *People Nat.* **3**, 756-769 (2021). doi: 10.1002/pan3.10215
+
+## Abstract
+
+
+1. The positive influence of urban green spaces on human health and well-being is well known while the pathways are little understood. Past research has largely focused on visual stimuli, yet the auditory pathway is also an important means for contact with nature.
+2. The sonic environments of urban green spaces, however, are rarely entirely natural and many differ in their composition of natural sounds and anthropogenic noise. Few studies have investigated how these differences may impact the restorative potential of these soundscapes and, in particular, how the presence of traffic noise may constrain the benefits of natural sounds.
+3. To address this gap, we examined differences in the perceived restorativeness and perceived restorative outcomes across a gradient of eight park soundscapes that differed in bird and traffic sounds. In a laboratory setting, 162 participants listened to sound samples and reported on perceptions of the soundscapes and restorative potential and outcomes.
+4. The results strongly indicate that park soundscapes with a rich array of perceived bird sounds and minimal perceived traffic noise offer the greatest perceived restoration. Traffic noise was found to moderate the positive effect of bird sounds. The duration of time lived in the city and noise sensitivity were also positively associated with greater perceived restorative benefits while noise-sensitive people were also more negatively affected by traffic noise.
+5. The promotion of highly natural soundscapes in urban green spaces and the reduction of traffic noise can provide nature-based solutions to human health and well-being in urban areas.

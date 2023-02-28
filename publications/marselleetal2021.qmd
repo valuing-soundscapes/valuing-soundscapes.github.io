@@ -1,0 +1,23 @@
+---
+title: "Pathways linking biodiversity to human health: A conceptual framework"
+type: "article"
+year: "2021"
+publication: "Environment International"
+doi: "https://doi.org/10.1016/j.envint.2021.106420"
+toc: false
+categories:
+  - ecosystem services
+  - nature
+  - biodiversity
+  - meditation
+  - public health
+  - human well-being
+---
+
+## Citation
+
+> Marselle, M., Hartig, T., Cox, D.T.C., de Bell, S., Knapp, S., Lindley, S., Triguero-Mas, M. ... & Bonn, A. Pathways linking biodiversity to human health: A conceptual framework. *Environ. Int.*, **150**, 106420 (2021). doi: 10.1016/j.envint.2021.106420
+
+## Abstract
+
+Biodiversity is a cornerstone of human health and well-being. However, while evidence of the contributions of nature to human health is rapidly building, research into how biodiversity relates to human health remains limited in important respects. In particular, a better mechanistic understanding of the range of pathways through which biodiversity can influence human health is needed. These pathways relate to both psychological and social processes as well as biophysical processes. Building on evidence from across the natural, social and health sciences, we present a conceptual framework organizing the pathways linking biodiversity to human health. Four domains of pathways—both beneficial as well as harmful—link biodiversity with human health: (i) reducing harm (e.g. provision of medicines, decreasing exposure to air and noise pollution); (ii) restoring capacities (e.g. attention restoration, stress reduction); (iii) building capacities (e.g. promoting physical activity, transcendent experiences); and (iv) causing harm (e.g. dangerous wildlife, zoonotic diseases, allergens). We discuss how to test components of the biodiversity-health framework with available analytical approaches and existing datasets. In a world with accelerating declines in biodiversity, profound land-use change, and an increase in non-communicable and zoonotic diseases globally, greater understanding of these pathways can reinforce biodiversity conservation as a strategy for the promotion of health for both people and nature. We conclude by identifying research avenues and recommendations for policy and practice to foster biodiversity-focused public health actions.

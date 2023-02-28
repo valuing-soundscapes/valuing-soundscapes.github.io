@@ -1,0 +1,37 @@
+---
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-8}
+
+# Assessing stocks
+
+:::
+
+::: {.g-col-4}
+
+::: dark-mode
+![](images/UEA%20Reverse%20Horizontal%20Logo_Blue%20Glint_PNG_RGB_N_A_41871.png)
+:::
+::: light-mode
+![](images/UEA%20Horizontal%20Logo_Blue%20Glint_PNG_RGB_N_A_41847.png)
+:::
+
+:::
+
+:::
+
+<hr />
+
+In this project theme, we will combine the BTO’s [Breeding Bird Survey (BBS)](https://www.bto.org/our-science/projects/breeding-bird-survey) and [Atlas](link) data with sound files from [Xeno-Canto](www.xeno-canto.org) to reconstruct and map habitat-specific natural soundscapes across the UK.
+
+We will relate the acoustic properties of these soundscapes to local habitat and landscape characteristics to determine key drivers of spatial and temporal dynamics in soundscape complexity.
+
+Working with the outputs from the [Psychology](surrey.qmd) and [Economics](gla.qmd) project themes, we will develop tools for measuring, monitoring and predicting mental health and well-being value based on natural soundscape characteristics.
+
+We will also up-scale measures of local soundscape complexity to build a national indicator of natural soundscape stocks.
+
+<br />
+*The ecology project theme is based at the University of East Anglia, led by Dr Simon Butler.*

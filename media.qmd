@@ -1,0 +1,21 @@
+---
+toc: false
+title: 'Media coverage'
+---
+
+## Nature Portfolio video
+
+The following animation was created as a summary of the [Morrison et al. 2021](publications/morrisonetal2021.qmd) paper for Nature Portfolio Science in Shorts.
+
+{{< video https://www.youtube.com/embed/e-7xGZMf_nk >}}
+
+## Podcasts
+
+[**The Science of Happiness**: Noticing Nature in the City](https://greatergood.berkeley.edu/podcasts/item/episode_93_noticing_nature_in_the_city)
+
+## Articles
+
+[**World Economic Forum**: Saving biodiversity: why our mental and physical health depends on it](https://www.weforum.org/agenda/2021/04/saving-biodiversity-why-our-mental-and-physical-health-depends-on-it/)
+
+[**The Conversation**: Birdsong soundscapes are getting quieter](https://theconversation.com/we-reconstructed-birdsong-soundscapes-from-over-200-000-places-and-theyre-getting-quieter-171325?utm_medium=email&utm_campaign=Latest%20from%20The%20Conversation%20for%20November%2030%202021%20-%202131921100&utm_content=Latest%20from%20The%20Conversation%20for%20November%2030%202021%20-%202131921100+CID_742766558f461b85ae3bf319bf5d2b0a&utm_source=campaign_monitor_uk&utm_term=We%20reconstructed%20birdsong%20soundscapes%20from%20over%20200000%20places%20and%20theyre%20getting%20quieter)
+

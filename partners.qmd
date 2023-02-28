@@ -1,0 +1,107 @@
+---
+title: "Project partners"
+toc: false
+---
+
+<br />
+The project benefits from the involvement of a number of project partners collaborating with the core research team:
+
+<br />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+<div class="card h-100">
+<img src="images/bto_wbg.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Simon Gillings</h4>
+<p class="card-subtitle">Principal Data Scientist<br>
+British Trust for Ornithology</p>
+<div class="text-center">
+<a href="https://www.bto.org/about-bto/our-staff/simon-gillings"><i>{{< fa arrow-up-right-from-square >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+<div class="card h-100">
+<img src="images/RSPB_Logo_2022.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Richard Bradbury</h4>
+<p class="card-subtitle">Head of People Conservation Science<br>
+RSPB</p>
+<div class="text-center">
+<a href="https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/richard-bradbury/"><i>{{< fa arrow-up-right-from-square >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+<div class="card h-100">
+<img src="images/national-trust-vector-logo.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Professor Matthew Heard</h4>
+<p class="card-subtitle">National Specialist in Land Use & Ecosystem Services<br>
+National Trust</p>
+<div class="text-center">
+<a href="chttps://scholar.google.co.uk/citations?user=kQ1FKPUAAAAJ&hl=en"><i>{{< fa graduation-cap >}}</i> </a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+<div class="card h-100">
+<img src="images/dunno.jpg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Michael Griffiths</h4>
+<p class="card-subtitle">Mental Health Nurse<br>
+Founder Bonmotus Limited</p>
+<div class="text-center">
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwirzqHUp-D8AhVJg1wKHfPODdEQFnoECAkQAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fmichael-griffiths-30296b203&usg=AOvVaw1WRSYqiGpmthy-2gT7TnFs"><i>{{< fa brands linkedin >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+
+
+::: {.g-col-12}
+# Stakeholders 
+
+We also have ongoing engagement with the following stakeholder organisations:
+
+:::
+
+:::
+
+::: light-mode
+::: {layout-nrow=1 layout-valign="center"}
+[![](images/natural-england-logo.png)](https://www.gov.uk/government/organisations/natural-england)
+
+[![](images/Arup_Red_RGB.png)](https://www.arup.com/)
+
+[![](images/SURREY_LOGO.png)](https://www.surreywildlifetrust.org/)
+
+[![](images/tc-logo.png)](https://tranquilcity.co.uk/)
+:::
+:::
+
+
+::: dark-mode
+::: {layout-nrow=1 layout-valign="center"}
+[![](images/natural-england-logo.png)](https://www.gov.uk/government/organisations/natural-england)
+
+[![](images/Arup_Red_RGB.png)](https://www.arup.com/)
+
+[![](images/SURREY_LOGO_bw.png)](https://www.surreywildlifetrust.org/)
+
+[![](images/tc-logo_white.png)](https://tranquilcity.co.uk/)
+:::
+:::

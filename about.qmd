@@ -1,0 +1,84 @@
+---
+toc: false
+---
+
+# Project overview
+
+#### The mental health and well-being benefits derived from nature are a globally important cultural ecosystem service.
+
+#### But the way in which this happens - and specific contributions of different elements of biodiversity - are not well understood.
+
+#### Sound plays a key role in our experience of nature, with bird song in particular providing the soundtrack to time spent outdoors.
+
+#### This project brings together approaches from ecology, psychology and economics to better understand the relationships between landscape structure, soundscape complexity, perceptions of soundscape quality, derived mental health and well-being benefits, and economic values.
+
+<br />
+
+<hr />
+
+# Themes {.text-center}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+[![](images/sw.png)](uea.qmd)
+<p class="text-center" style="font-weight: 300">
+Modelling soundscape complexity.
+</p>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+[![](images/ps.png)](surrey.qmd)
+<p class="text-center" style="font-weight: 300">
+Quantifying well-being impacts of soundscape complexity.
+</p>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+[![](images/ec.png)](gla.qmd)
+<p class="text-center" style="font-weight: 300">
+Economic valuation of soundscape complexity.
+</p>
+
+:::  
+
+:::
+
+<br />
+
+<hr />
+
+<br />
+
+::: light-mode
+::: {layout-nrow=1 layout-valign="center"}
+![](images/UKRI_ESR_Council-Logo_Horiz-RGB.png)
+
+![](images/UKRI_NER_Council-Logo_Horiz-RGB.png)
+
+![](images/UoG_colour.png)
+
+![](images/UEA%20Horizontal%20Logo_Blue%20Glint_PNG_RGB_N_A_41847.png)
+
+![](images/380_University Logo Blue_Gold _PNG_ .png)
+:::
+:::
+
+::: dark-mode
+::: {layout-nrow=1 layout-valign="center"}
+![](images/UKRI_ESR_Council-Logo_Horiz-RGB[W].png)
+
+![](images/UKRI_NER_Council-Logo_Horiz-RGB[W].png) 
+
+![](images/UoG_keyline.png)
+
+![](images/UEA%20Reverse%20Horizontal%20Logo_Blue%20Glint_PNG_RGB_N_A_41871.png)
+
+![](images/380_University Logo Blue_Gold _PNG_ .png)
+:::
+:::
