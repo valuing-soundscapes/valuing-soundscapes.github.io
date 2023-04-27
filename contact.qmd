@@ -6,7 +6,7 @@ toc: false
 
 </br >
 
-### For comments/queries relevant to one of the project themes, please email the relevant Co-I/ research lead. 
+### For comments/queries relevant to one of the project themes, please email the [relevant Co-I/ research lead](researchstaff.qmd). 
 
 
 ### For overall comments or concerns about the project, please contact Simon Butler at [simon.j.butler@uea.ac.uk](mailto:simon.j.butler@uea.ac.uk).

@@ -6,7 +6,7 @@ toc: false
 
 ::: {.g-col-8}
 
-# Assessing stocks
+# Acoustic Ecology - *Assessing stocks*
 
 :::
 
@@ -23,6 +23,7 @@ toc: false
 
 :::
 
+### Developing tools to measure, monitor and predict temporal and spatial changes in soundscape complexity, and the mental health and well-being benefits conferred, at multiple spatial scales.
 <hr />
 
 In this project theme, we will combine the BTO’s [Breeding Bird Survey (BBS)](https://www.bto.org/our-science/projects/breeding-bird-survey) and [Atlas](https://www.bto.org/our-science/projects/birdatlas) data with sound files from [Xeno-Canto](https://xeno-canto.org/) to reconstruct and to map habitat-specific natural soundscapes across the UK.
@@ -34,4 +35,9 @@ Working with the outputs from the [Psychology](surrey.qmd) and [Economics](gla.q
 We will also up-scale measures of local soundscape complexity to build a national indicator of natural soundscape stocks.
 
 <br />
-*The ecology project theme is based at the University of East Anglia, led by Dr Simon Butler.*
+Use the player below to hear an example reconstructed soundscape, in this case representing an area of farmland in Buckinghamshire:
+<br />
+<audio controls src="SU9794_Farmland_other_2019.wav"></audio>
+
+<br />
+*The ecology project theme is based at the University of East Anglia, led by [Dr Simon Butler](researchstaff.qmd#sec-eco) and investigated by [Dr Claire Buchan](researchstaff.qmd#sec-eco).*

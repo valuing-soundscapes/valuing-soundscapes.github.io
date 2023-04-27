@@ -6,7 +6,7 @@ toc: false
 
 ::: {.g-col-8}
 
-# Determining flows
+# Environmental Psychology - *Determining flows*
 
 :::
 
@@ -22,6 +22,8 @@ toc: false
 :::
 :::
 
+### Understanding the effects, mechanistic pathways, and constraints of soundscape complexity on mental well-being.
+
 <hr />
 
 Natural soundscapes are psychologically restorative, but we have a limited understanding of the acoustic properties of natural soundscapes that most benefit mental health and wellbeing, and generally a poor mechanistic understanding of how biodiversity impacts health. It is also unclear how the health benefits of natural soundscapes may be impacted by anthropogenic noise.
@@ -30,8 +32,8 @@ Natural soundscapes are psychologically restorative, but we have a limited under
 
 * Identify the acoustic properties of natural soundscapes that promote mental health and well-being in psychological experimental studies 
 * Investigate the mediating pathways that underlie this effect
-* Estimate whether anthropogenic noise (e.g. traffic) reduces the mental health and well-being potential of natural soundscapes. 
+* Estimate whether anthropogenic noise (e.g. traffic) reduces the mental health and well-being potential of natural soundscapes.
 
 <br />
-*The psychology project theme is based at the University of Surrey, led by Dr Ellie Ratcliffe and Dr Melissa Marselle.*
+*The psychology project theme is based at the University of Surrey, led by [Dr Ellie Ratcliffe](researchstaff.qmd#sec-psych) and [Dr Melissa Marselle](researchstaff.qmd#sec-psych) and investigated by [Dr Konrad Uebel](researchstaff.qmd#sec-psych).*
 

@@ -17,11 +17,11 @@ website:
       - text: "Themes"
         menu:
           - href: uea.qmd
-            text: "Ecology"
+            text: "Acoustic Ecology"
           - href: surrey.qmd
-            text: "Pyschology"
+            text: "Environmental Psychology"
           - href: gla.qmd
-            text: "Economics"
+            text: "Environmental Economics"
       - text: "Research staff"
         href: researchstaff.qmd
       - text: "Project partners"
@@ -32,11 +32,11 @@ website:
           - media.qmd
       - text: "Contact"
         href: contact.qmd
-      - icon: github
-        href: https://github.com/c-buchan/soundscapes
 
 format:
   html:
+    resources:
+      - SU9794_Farmland_other_2019.wav
     page-layout: full
     theme: 
       dark:
