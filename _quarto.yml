@@ -36,7 +36,7 @@ website:
 format:
   html:
     resources:
-      - SU9794_Farmland_other_2019.wav
+      - "audio/SU9794_Farmland_other_2019.wav"
     page-layout: full
     theme: 
       dark:
