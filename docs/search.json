@@ -56,20 +56,6 @@
     "text": "Abstract\nPolicy tools are needed that allow reconciliation of human development pressures with conservation priorities. Biodiversity offsetting can be used to compensate for ecological losses caused by development activities. Landowners can choose to undertake conservation actions, including habitat restoration, to generate biodiversity offsets. Consideration of the incentives facing landowners as potential biodiversity offset providers and developers as potential buyers of credits is critical when considering the ecological and economic landscape-scale outcomes of alternative offset metrics. There is an expectation that landowners will always seek to conserve the least profitable land parcels, and, in turn, this determines the spatial location of biodiversity offset credits. We developed an ecological-economic model to compare the ecological and economic outcomes of offsetting for a habitat-based metric and a species-based metric. We were interested in whether these metrics would adequately capture the indirect benefits of offsetting on species not considered under a no-net-loss policy. We simulated a biodiversity offset market for a case study landscape, linking species distribution modeling and an economic model of landowner choice based on economic returns of the alternative land management options (restore, develop, or maintain existing land use). Neither the habitat nor species metric adequately captured the indirect benefits of offsetting on related habitats or species. The underlying species distributions, layered with the agricultural and development rental values of parcels, resulted in very different landscape outcomes depending on the metric chosen. If policy makers are aiming for the metric to act as an indicator to mitigate impacts on a range of closely related habitats and species, then a simple no-net-loss target is not adequate. Furthermore, to achieve the most ecologically beneficial design of offsets policy, an understanding of the economic decision-making processes of the landowners is needed."
   },
   {
-    "objectID": "publications/butleretal2007.html",
-    "href": "publications/butleretal2007.html",
-    "title": "Farmland Biodiversity and the Footprint of Agriculture",
-    "section": "",
-    "text": "Butler, S. J., Vickery, J. A. and Norris, K. Farmland Biodiversity and the Footprint of Agriculture. Science 315, 5810 (2007). https://doi.org/10.1126/science.1136607"
-  },
-  {
-    "objectID": "publications/butleretal2007.html#abstract",
-    "href": "publications/butleretal2007.html#abstract",
-    "title": "Farmland Biodiversity and the Footprint of Agriculture",
-    "section": "Abstract",
-    "text": "Abstract\nSustainable development requires the reconciliation of demands for biodiversity conservation and increased agricultural production. Assessing the impact of novel farming practices on biodiversity and ecosystem services is fundamental to this process. Using farmland birds as a model system, we present a generic risk assessment framework that accurately predicts each species’ current conservation status and population growth rate associated with past changes in agriculture. We demonstrate its value by assessing the potential impact on biodiversity of two controversial land uses, genetically modified herbicide-tolerant crops and agri-environment schemes. This framework can be used to guide policy and land management decisions and to assess progress toward sustainability targets."
-  },
-  {
     "objectID": "publications/ratcliffe2021.html",
     "href": "publications/ratcliffe2021.html",
     "title": "Sound and Soundscape in Restorative Natural Environments: A Narrative Literature Review",
@@ -250,19 +236,5 @@
     "title": "Valuing Nature's Soundscapes",
     "section": "",
     "text": "Acoustic Ecology - Assessing stocks\n\n\n\n\n\n\n\n\n\n\n\nDeveloping tools to measure, monitor and predict temporal and spatial changes in soundscape complexity, and the mental health and well-being benefits conferred, at multiple spatial scales.\n\nIn this project theme, we will combine the BTO’s Breeding Bird Survey (BBS) and Atlas data with sound files from Xeno-Canto to reconstruct and to map habitat-specific natural soundscapes across the UK.\nWe will relate the acoustic properties of these soundscapes to local habitat and landscape characteristics to determine key drivers of spatial and temporal dynamics in soundscape complexity.\nWorking with the outputs from the Psychology and Economics project themes, we will develop tools for measuring, monitoring and predicting mental health and well-being value based on natural soundscape characteristics.\nWe will also up-scale measures of local soundscape complexity to build a national indicator of natural soundscape stocks.\n Use the player below to hear an example reconstructed soundscape, in this case representing an area of arable farmland in Gloucestershire:  \n The ecology project theme is based at the University of East Anglia, led by Dr Simon Butler and investigated by Dr Claire Buchan."
-  },
-  {
-    "objectID": "uea.html#key-outputs",
-    "href": "uea.html#key-outputs",
-    "title": "Valuing Nature's Soundscapes",
-    "section": "Key outputs:",
-    "text": "Key outputs:\n\nQuantify natural soundscape complexity for each 1-km square across the UK, using species records and habitat composition data to identify the key determinants of its spatial dynamics\nIntegrate this with outputs from the Environmental Psychology and Environmental Economics themes to develop tools for measuring, monitoring and predicting natural soundsapes sotcks and the flow of derived mental health and well-being benefits\n\n The ecology project theme is based at the University of East Anglia, led by Dr Simon Butler and investigated by Dr Claire Buchan."
-  },
-  {
-    "objectID": "uea.html#key-output",
-    "href": "uea.html#key-output",
-    "title": "Valuing Nature's Soundscapes",
-    "section": "Key output:",
-    "text": "Key output:\nWe will develop tools to measure, monitor and predict temporal and spatial changes in soundscape complexity, and the mental health and well-being benefits conferred, at multiple spatial scales.\n Use the player below to hear an example reconstructed soundscape, in this case representing an area of farmland in Buckinghamshire:  \n The ecology project theme is based at the University of East Anglia, led by Dr Simon Butler and investigated by Dr Claire Buchan."
   }
 ]
