@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  twitter-card: true
+  twitter-card:
+    creator: "@buchanding"
   favicon: images/favicon_brain_sq.png
   title: "Valuing Nature's Soundscapes"
-  site-url: "https://c-buchan.github.io/soundscapes/"
-  repo-url: "https://github.com/c-buchan/soundscapes"
+  site-url: "https://valuing-soundscapes.github.io/"
   navbar:
     logo: images/logo_brain_sq.png
     pinned: true
