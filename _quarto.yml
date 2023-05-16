@@ -4,6 +4,10 @@ project:
 
 website:
   twitter-card:
+    card-style: summary
+    title: "Valuing Nature's Soundscapes"
+    image: images/favicon_brain_sq.png
+    description: "Project website for the NERC ESRC Soundscapes project"
     creator: "@buchanding"
   favicon: images/favicon_brain_sq.png
   title: "Valuing Nature's Soundscapes"
