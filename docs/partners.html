@@ -24,16 +24,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <link href="./images/favicon_brain_sq.png" rel="icon" type="image/png">
+<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -44,12 +39,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -147,7 +136,6 @@ ul.task-list li input[type="checkbox"] {
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
               </div>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -184,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="card h-100">
 <img src="images/bto_wbg.png" class="card-img-top">
 <div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
+<h4 class="card-title">
 Dr Simon Gillings
 </h4>
 <p class="card-subtitle">
@@ -200,7 +188,7 @@ Principal Data Scientist<br> British Trust for Ornithology
 <div class="card h-100">
 <img src="images/RSPB_Logo_2022.png" class="card-img-top">
 <div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
+<h4 class="card-title">
 Dr Richard Bradbury
 </h4>
 <p class="card-subtitle">
@@ -216,7 +204,7 @@ Head of People Conservation Science<br> RSPB
 <div class="card h-100">
 <img src="images/national-trust-vector-logo.png" class="card-img-top">
 <div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
+<h4 class="card-title">
 Professor Matthew Heard
 </h4>
 <p class="card-subtitle">
@@ -232,7 +220,7 @@ National Specialist in Land Use &amp; Ecosystem Services<br> National Trust
 <div class="card h-100">
 <img src="images/dunno.jpg" class="card-img-top">
 <div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
+<h4 class="card-title">
 Michael Griffiths
 </h4>
 <p class="card-subtitle">
@@ -440,13 +428,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

@@ -24,16 +24,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
 <link href="../images/favicon_brain_sq.png" rel="icon" type="image/png">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -42,12 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -145,7 +134,6 @@ ul.task-list li input[type="checkbox"] {
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
               </div>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -191,13 +179,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<h2 data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p>Morrison, C.A., Auniņš, A., Benkő, Z. <em>et al.</em> Bird population declines and species turnover are changing the acoustic properties of spring soundscapes. <em>Nat Commun</em> <strong>12</strong>, 6217 (2021). doi: 10.1038/s41467-021-26488-1</p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<h2 data-anchor-id="abstract">Abstract</h2>
 <p>Natural sounds, and bird song in particular, play a key role in building and maintaining our connection with nature, but widespread declines in bird populations mean that the acoustic properties of natural soundscapes may be changing. Using data-driven reconstructions of soundscapes in lieu of historical recordings, here we quantify changes in soundscape characteristics at more than 200,000 sites across North America and Europe. We integrate citizen science bird monitoring data with recordings of individual species to reveal a pervasive loss of acoustic diversity and intensity of soundscapes across both continents over the past 25 years, driven by changes in species richness and abundance. These results suggest that one of the fundamental pathways through which humans engage with nature is in chronic decline, with potentially widespread implications for human health and well-being.</p>
 
 
@@ -339,13 +327,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

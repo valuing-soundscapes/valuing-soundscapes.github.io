@@ -24,16 +24,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
 <link href="../images/favicon_brain_sq.png" rel="icon" type="image/png">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -42,12 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -145,7 +134,6 @@ ul.task-list li input[type="checkbox"] {
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
               </div>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -191,13 +179,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<h2 data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p>Simpson K., de Vries F., Dallimer M, Armsworth P &amp; Hanley N. Ecological and Economic Implications of Alternative Metrics in Biodiversity Offset Markets. <em>Conserv. Biol.</em>, <strong>36</strong>, e13906 (2022). doi: 10.1111/cobi.13906</p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<h2 data-anchor-id="abstract">Abstract</h2>
 <p>Policy tools are needed that allow reconciliation of human development pressures with conservation priorities. Biodiversity offsetting can be used to compensate for ecological losses caused by development activities. Landowners can choose to undertake conservation actions, including habitat restoration, to generate biodiversity offsets. Consideration of the incentives facing landowners as potential biodiversity offset providers and developers as potential buyers of credits is critical when considering the ecological and economic landscape-scale outcomes of alternative offset metrics. There is an expectation that landowners will always seek to conserve the least profitable land parcels, and, in turn, this determines the spatial location of biodiversity offset credits. We developed an ecological-economic model to compare the ecological and economic outcomes of offsetting for a habitat-based metric and a species-based metric. We were interested in whether these metrics would adequately capture the indirect benefits of offsetting on species not considered under a no-net-loss policy. We simulated a biodiversity offset market for a case study landscape, linking species distribution modeling and an economic model of landowner choice based on economic returns of the alternative land management options (restore, develop, or maintain existing land use). Neither the habitat nor species metric adequately captured the indirect benefits of offsetting on related habitats or species. The underlying species distributions, layered with the agricultural and development rental values of parcels, resulted in very different landscape outcomes depending on the metric chosen. If policy makers are aiming for the metric to act as an indicator to mitigate impacts on a range of closely related habitats and species, then a simple no-net-loss target is not adequate. Furthermore, to achieve the most ecologically beneficial design of offsets policy, an understanding of the economic decision-making processes of the landowners is needed.</p>
 
 
@@ -339,13 +327,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

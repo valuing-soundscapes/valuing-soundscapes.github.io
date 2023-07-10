@@ -12,10 +12,10 @@ website:
   favicon: images/favicon_brain_sq.png
   title: "Valuing Nature's Soundscapes"
   site-url: "https://valuing-soundscapes.github.io/"
+  search: false
   navbar:
     logo: images/logo_brain_sq.png
     pinned: true
-    search: false
     right:
       - href: about.qmd
         text: About
@@ -40,6 +40,7 @@ website:
 
 format:
   html:
+    anchor-sections: false
     resources:
       - "audio/SP1114_Farmland_arable_2019.mp3"
     page-layout: full
