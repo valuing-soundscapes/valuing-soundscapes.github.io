@@ -59,7 +59,7 @@ University of East Anglia</p>
 <img src="images/Ellie_photo.jpg" class="card-img-top">
 <div class="card-body d-flex flex-column">
 <h4 class="card-title">Dr Eleanor Ratcliffe</h4>
-<p class="card-subtitle">Lecturer in Environmental Psychology<br>
+<p class="card-subtitle">Senior Lecturer in Environmental Psychology<br>
 University of Surrey</p>
 <div class="card-text text-center">
 <p>RESTORATIVE ENVIRONMENTS - NATURAL SOUNDSCAPES - WELLBEING</p>
