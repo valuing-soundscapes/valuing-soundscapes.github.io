@@ -77,7 +77,7 @@ University of Surrey</p>
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100">
-<img src="images/melissa_marselle_sq.jpg" class="card-img-top">
+<img src="images/melissa_marselle_sq.webp" class="card-img-top">
 <div class="card-body d-flex flex-column">
 <h4 class="card-title">Dr Melissa Marselle</h4>
 <p class="card-subtitle">Lecturer in Environmental Psychology<br>
@@ -99,7 +99,7 @@ University of Surrey</p>
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100">
-<img src="images/konrad_sq.png" class="card-img-top">
+<img src="images/konrad_sq.webp" class="card-img-top">
 <div class="card-body d-flex flex-column">
 <h4 class="card-title">Dr Konrad Uebel</h4>
 <p class="card-subtitle">Research Fellow<br>
@@ -124,11 +124,11 @@ University of Surrey</p>
 <div class="card h-100">
 
 ::: dark-mode
-<img src="images/nick_hanley_cool.jpg" class="card-img-top">
+<img src="images/nick_hanley_cool.webp" class="card-img-top">
 
 :::
 ::: light-mode
-<img src="images/nick_hanley_less_cool.jpg" class="card-img-top">
+<img src="images/nick_hanley_less_cool.webp" class="card-img-top">
 
 :::
 
@@ -153,7 +153,7 @@ University of Glasgow</p>
 ::: {.g-col-12 .g-col-md-4}
 
 <div class="card h-100">
-<img src="images/ah_crop.png" class="card-img-top">
+<img src="images/ah_crop.webp" class="card-img-top">
 <div class="card-body d-flex flex-column">
 <h4 class="card-title">Dr Anthony Higney</h4>
 <p class="card-subtitle">Postdoctoral Research Associate<br>
