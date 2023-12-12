@@ -150,4 +150,25 @@ University of Glasgow</p>
 
 :::
 
+::: {.g-col-12 .g-col-md-4}
+
+<div class="card h-100">
+<img src="images/ah_crop.png" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Dr Anthony Higney</h4>
+<p class="card-subtitle">Postdoctoral Research Associate<br>
+University of Glasgow</p>
+<div class="card-text text-center">
+<p>ENVIRONMENTAL ECONOMICS - ECONOMETRICS - CAUSAL INFERENCE</p>
+</div>
+<div class="text-center">
+<a href="https://anthonychigney.github.io/home/"><i>{{< fa brands github >}}</i></a>
+<a href="https://twitter.com/AnthonyHigney"><i>{{< fa brands twitter >}}</i></a>
+<a href="mailto:anthony.higney@glasgow.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
 :::

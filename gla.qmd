@@ -35,4 +35,4 @@ In the second strand of work, we will use data from a second random sample surve
 Finally, we will use data on anti-depressant prescribing at the [“datazone”](https://www.data.gov.uk/dataset/ab9f1f20-3b7f-4efa-9bd2-239acf63b540/data-zone-boundaries-2011) level in Scotland to test the associations between bird song and use of such drugs, based on previous work we did using similar data to look at the effects of variation in access to blue and green spaces on anti-depressant prescribing.
 
 <br /> 
-*The economics project theme is based at the University of Glasgow, led by [Professor Nick Hanley](researchstaff.qmd#sec-econ).*
+*The economics project theme is based at the University of Glasgow, led by [Professor Nick Hanley](researchstaff.qmd#sec-econ) and investigated by [Dr Anthony Higney](researchstaff.qmd#sec-econ)*
