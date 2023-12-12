@@ -10,7 +10,7 @@ toc: false
 
 #### Sound plays a key role in our experience of nature, with bird song in particular providing the soundtrack to time spent outdoors.
 
-#### This project combines ecoacoustics with approaches from environmental psychology and economics to better understand the relationships between landscape structure, soundscape complexity, perceptions of soundscape quality, derived mental health and well-being benefits, and economic values.
+#### Part of the wider [UKRI Economics of Biodiversity programme](https://economicsofbiodiversity.org/), this project combines ecoacoustics with approaches from environmental psychology and economics to better understand the relationships between landscape structure, soundscape complexity, perceptions of soundscape quality, derived mental health and well-being benefits, and economic values.
 
 <br />
 
