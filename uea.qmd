@@ -40,4 +40,4 @@ Use the player below to hear an example reconstructed soundscape, in this case r
 <audio controls src="audio/SP1114_Farmland_arable_2019.mp3"></audio>
 
 <br />
-*The ecology project theme is based at the University of East Anglia, led by [Dr Simon Butler](researchstaff.qmd#sec-eco) and investigated by [Dr Claire Buchan](researchstaff.qmd#sec-eco).*
+*The ecology project theme is based at the University of East Anglia, led by [Professor Simon Butler](researchstaff.qmd#sec-eco) and investigated by [Dr Claire Buchan](researchstaff.qmd#sec-eco).*

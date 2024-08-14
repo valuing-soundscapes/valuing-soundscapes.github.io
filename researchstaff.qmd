@@ -13,7 +13,7 @@ toc: false
 <div class="card h-100">
 <img src="images/sjb.png" class="card-img-top">
 <div class="card-body d-flex flex-column">
-<h4 class="card-title">Dr Simon Butler</h4>
+<h4 class="card-title">Professor Simon Butler</h4>
 <p class="card-subtitle">Associate Professor<br>
 University of East Anglia</p>
 <div class="card-text text-center">
