@@ -14,7 +14,7 @@ toc: false
 <img src="images/sjb.png" class="card-img-top">
 <div class="card-body d-flex flex-column">
 <h4 class="card-title">Professor Simon Butler</h4>
-<p class="card-subtitle">Associate Professor<br>
+<p class="card-subtitle">Professor of Applied Ecology<br>
 University of East Anglia</p>
 <div class="card-text text-center">
 <p>BIODIVERSITY CONSERVATION - ECOLOGICAL INDICATORS - ACOUSTIC ECOLOGY</p>
